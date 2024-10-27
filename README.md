@@ -18,7 +18,7 @@ This project incorporates several design patterns:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shulamitmorjossef/AnimalCompetitionSystem.git
+   git clone https://github.com/shulamitmorjossef/Zoo-competition-game.git
 2. Open the project in IntelliJ IDEA or your preferred Java IDE.
 3. Compile and run the project.
 
